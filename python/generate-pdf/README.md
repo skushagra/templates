@@ -20,6 +20,7 @@ Returns the generated PDF documen. The `Contest-Type` of the response will be se
 | ------- | ----- |
 | Runtime | Python |
 | Entrypoint | `src/main.py` |
+| Build | `pip install -r requirements.txt` |
 | Permissions | `any` |
 
 
